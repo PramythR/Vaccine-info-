@@ -1,0 +1,10 @@
+.country__cardContent {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.country__card {
+  margin-top: 10px;
+}
+.country__select {
+}
